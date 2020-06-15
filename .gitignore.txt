@@ -1,0 +1,9 @@
+/backend/proyectosESCOM/proyectosESCOM-web/target/
+/backend/proyectosESCOM/proyectosESCOM-ejb/target/
+/backend/proyectosESCOM/proyectosESCOM-ear/target/
+/backend/proyectosESCOM/target/
+/backend/proyectosESCOM/.scannerwork
+/backend/.scannerwork
+/frontend/ESCOM-view/.scannerwork
+/frontend/ESCOM-view/node_modules/
+.scannerwork
