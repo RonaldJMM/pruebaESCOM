@@ -1,0 +1,16 @@
+
+JSX
+
+funciones flecha
+
+props -> lo que entra al componente
+
+state -> propiedades del componente
+
+peopTypes ayudan a validar los objetos que se reciben en el props
+
+componentDidMount -> ejecutar antes de render
+
+revisar redux o reducers
+
+preguntar sobre el comentado de los metodos
