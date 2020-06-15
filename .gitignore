@@ -4,6 +4,8 @@
 /backend/proyectosESCOM/target/
 /backend/proyectosESCOM/.scannerwork
 /backend/.scannerwork
-/frontend/ESCOM-view/.scannerwork
-/frontend/ESCOM-view/node_modules/
+/frontend/SIMESCOM-view/.scannerwork
+/frontend/SIMESCOM-view/node_modules/
+/frontend/SIMESCOM-view/.vscode
+/frontend/SIMESCOM-view/debug.log
 .scannerwork
